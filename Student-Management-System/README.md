@@ -74,17 +74,26 @@ Student Management System
 Enter your choice: 4
 
 Showing students details:
+
 ID  Name          Roll Number Class    Department
+
 1   Jayesh        22122017    3 MSc DS SCIENCE
+
 2   Sachin        22122025    3 MSc DS Science
+
 3   Darvesh       22122018    3 MSC DS MAnagement
+
+
 MARKS OF STUDENTS:
 
 Mark sheet:
 
 NAME          ROLLNO.   NNDL  TS    NLP   BI    CLOUD TOTAL  PERCENTAGE
+
 Jayesh        22122017  55.00 66.00 77.00 88.00 99.00 385    77.00
+
 Sachin        22122025  77.00 66.00 55.00 66.00 77.00 341    68.20
+
 Darvesh       22122018  55.00 66.00 77.00 88.00 99.00 385    77.00
 
 ------------------------------
@@ -99,11 +108,17 @@ Enter your choice: 3
 
 Getting student marks:
 Enter the roll number of the student: 22122018
+
 Marks for student with roll number 22122018:
+
 NNDL: 55.0
+
 TS: 66.0
+
 NLP: 77.0
+
 BI: 88.0
+
 CLOUD: 99.0
 
 Student Management System
@@ -127,15 +142,22 @@ Student Management System
 Enter your choice: 4
 
 Showing students details:
+
 ID  Name          Roll Number Class    Department
+
 1   Jayesh        22122017    3 MSc DS SCIENCE
+
 3   Darvesh       22122018    3 MSC DS MAnagement
+
+
 MARKS OF STUDENTS:
 
 Mark sheet:
 
 NAME          ROLLNO.   NNDL  TS    NLP   BI    CLOUD TOTAL  PERCENTAGE
+
 Jayesh        22122017  55.00 66.00 77.00 88.00 99.00 385    77.00
+
 Darvesh       22122018  55.00 66.00 77.00 88.00 99.00 385    77.00
 
 ------------------------------
